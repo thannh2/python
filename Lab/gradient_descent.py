@@ -40,7 +40,7 @@ A = np.array([[2, 5, 7, 9, 11, 16, 19, 23, 22, 29, 29, 35, 37, 40, 46]]).T
 b = np.array([[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]]).T
 
 #Draw Data
-fig1 = plt.figure("GD for linear regression")
+fig1 = plt.figure("GD for gradient descent")
 ax = plt.axes(xlim=(-10,60), ylim=(-1,20))
 plt.plot(A, b, 'ro')
 
