@@ -1,6 +1,6 @@
 4
-Playlist chill
-Lofi chill
+Playlist 1
+Description 1
 5
 image1.png
 10
@@ -24,8 +24,8 @@ Fuu va Bien - Lope Dope
 https://youtu.be/8EpYjVjfpP8?si=wEZdH4gtrdljMiPB
 Oi Mat Riu
 https://youtu.be/jfh-BAOjc9g?si=pYgaH-EpMI1U8dbf
-Low G - Playlist
-Neu co kiep sau, minh van yeu nhau nhe
+Playlist 2
+Description 2
 5
 image2.png
 9
@@ -47,8 +47,8 @@ Chan Gai 707 - Low G - Rap Nha Lam
 https://youtu.be/_qPdi9D2rHA?si=s1vAz5dJQrLq22Ia
 Don Gian- Low G - Nha Hoa Hoc Dong Da
 https://youtu.be/epYvxORKcLg?si=jh0OefanauSzTm29
-Our beloved memories
-Anh yeu ki niem cua hai ta va yeu ca em nua
+Playlist 3
+Description 3
 5
 image3.png
 6
@@ -64,8 +64,8 @@ Hu Khong - Kha
 https://youtu.be/1PWadtewUBw?si=hvongwn2eqLPBzj-
 O ben canh em
 https://youtu.be/H3reLH5gk1w?si=iWflPaE1GO5yg_ka
-Jeremy Zucker
-Chill
+Playlist 4
+Description 4
 4
 image4.png
 6
